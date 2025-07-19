@@ -1,9 +1,10 @@
-![Sir](cid.gif)
+
 ## ![Surya Zein Rambe](banner.png)
 
 - 🧑‍🎓 I’m currently study at STMIK Triguna Dharma Medan
 - 😄 I’m currently Learning [Laravel](https://laravel.com) Framework
 
+![Sir](cid.gif)
 <!--
 **suryazeinrambe/suryazeinrambe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

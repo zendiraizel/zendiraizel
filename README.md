@@ -1,5 +1,5 @@
-# Hi there 
-![Surya Zein Rambe](banner1.png)
+
+## ![Surya Zein Rambe](banner.png)
 <!--
 **suryazeinrambe/suryazeinrambe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

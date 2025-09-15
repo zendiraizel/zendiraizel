@@ -6,7 +6,7 @@
 
 
 
-## ![Surya Zein Rambe](banner.png)
+
 
 - 🧑‍🎓 I’m currently study at STMIK Triguna Dharma Medan
 - 😄 I’m currently Learning [Laravel](https://laravel.com) Framework
